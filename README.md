@@ -104,12 +104,6 @@ Inside cult-fit & backeend-cultfit install with npm
 
 **Server:** Google-Auth-Library, cors
 
-## Authors
-
-- Krishna Kumar Keshri - [@KrishnaKumarKeshri96](https://github.com/KrishnaKumarKeshri96)
-- Srikanth Reddy [@SrikanthReddyBV](https://github.com/SrikanthReddyBV)
-- Hardik Thummar [@HardikThummar97](https://github.com/HardikThummar97)
-- Sagar Biswas [@mrsagar105](https://github.com/mrsagar105)
 
 ## Acknowledgements
 
